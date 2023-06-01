@@ -6,4 +6,12 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <PackageId>MoneyExtensions</PackageId>
+  <Version>1.0.0</Version>
+  <Company>Daniel Maack</Company>
+  <PackageDescription>Daniel Maack</PackageDescription>
+  <RepositoryUrl>https://github.com/dmmaack/MoneyExtension</RepositoryUrl>
+  </PropsrtyGroup>
 </Project>
+
+
